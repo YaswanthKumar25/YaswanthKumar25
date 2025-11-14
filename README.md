@@ -4,15 +4,16 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **Portfolio Website, Django Blog & React Dashboard**  
-- 🌱 I’m learning **Advanced Django, React Hooks & Deployment**  
+- 🔭 I’m currently working on **Room-Management App (Django)** & **Personal Portfolio (React)**  
+- 🌱 I’m learning **Advanced Django, React Hooks, Deployment (Netlify & Render)**  
 - 💬 Ask me about **Python, Django, React, SQL, JavaScript**  
-- 🎯 Goal: Become a strong Full Stack Developer & work in a fast-growing startup  
-- ⚡ Fun fact: I improve my coding skills every day  
+- 🎯 Goal: Become a strong Full Stack Developer & join a fast-growing startup  
+- ⚡ Fun fact: I improve my coding skills every single day  
 
 ---
 
 ## 🛠️ Tech Stack  
+
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,30 +32,33 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 **Portfolio Website**
-A personal website built with React to showcase skills and projects.  
-👉 *Coming Soon*
+### 🔹 **Room-Management App (Django)**  
+A collaborative app to help roommates manage rooms, services, and monthly expenses.  
+👉 **GitHub Repo:** https://github.com/YaswanthKumar25/Room-Management  
 
 ---
 
-### 🔹 **Django Blog App**
-A complete CRUD blog application with authentication & admin panel.  
-👉 *Uploading Soon*
+### 🔹 **ToDo List App (Django)**  
+Simple CRUD ToDo app with task add, update, delete, and completion.  
+👉 **GitHub Repo:** https://github.com/YaswanthKumar25/ToDo_List  
 
 ---
 
-### 🔹 **React API Dashboard**
-A dashboard that fetches and displays real-time data using external APIs.  
-👉 *Uploading Soon*
+### 🔹 **Portfolio Website (React)**  
+My personal portfolio showcasing my work & skills.  
+👉 **Live Website:** https://yaswanthkumar25-portfolio.netlify.app/
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YaswanthKumar25&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YaswanthKumar25&theme=tokyonight" />
@@ -64,7 +68,7 @@ A dashboard that fetches and displays real-time data using external APIs.
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/YaswanthKumar25/YaswanthKumar25/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YaswanthKumar25/YaswanthKumar25/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
