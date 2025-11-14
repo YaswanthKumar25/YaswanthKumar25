@@ -53,7 +53,7 @@ Simple CRUD ToDo app with task add, update, delete, and completion.
 
 ### 🔹 **Portfolio Website (React)**  
 My personal portfolio showcasing my work & skills.  
-👉 **Live Website:** https://yaswanthkumar25-portfolio.netlify.app/
+👉 **Live Website:** https://yaswanthkumar-portfolio.netlify.app/
 
 ---
 
