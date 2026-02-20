@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yaswanth</h1>
 <h3 align="center">💻 Full Stack Developer | Python • Django • React • JavaScript</h3>
 
----=
+---
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Room-Management App (Django)** & **Personal Portfolio (React)**  
