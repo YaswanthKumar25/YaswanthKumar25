@@ -88,7 +88,7 @@ A full-stack application that helps users organize and manage tasks through a re
 
 **Technologies:** React, Django REST Framework, Python, MySQL, Tailwind CSS.
 
-**Source Code:** [Add your TaskFlow GitHub repository URL here.](https://github.com/YaswanthKumar25/TaskFlow)
+**Source Code:** https://github.com/YaswanthKumar25/TaskFlow
 
 ---
 
@@ -104,7 +104,7 @@ A coding platform designed to help users practice programming problems and track
 
 **Technologies:** React, Django REST Framework, Python, MySQL, Tailwind CSS.
 
-**Source Code:** Add your CodeNest GitHub repository URL here.
+**Source Code:** https://github.com/YaswanthKumar25/CodeNest
 
 ---
 
